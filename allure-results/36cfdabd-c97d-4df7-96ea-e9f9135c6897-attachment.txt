@@ -1,0 +1,38 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 3' test cases in the current suite                                        
+                                          Test Method: 'testPackage.TestClass.searchForQueryAndAssert'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://duckduckgo.com/" @25-08-2025 23:20:34.0906 PM
+[ReportManager] Initial URL: "about:blank" @25-08-2025 23:20:34.0917 PM
+[ReportManager] Navigate to url "https://duckduckgo.com/". @25-08-2025 23:20:35.0865 PM
+[ReportManager] Type "Search with DuckDuckGo" @25-08-2025 23:20:36.0055 PM
+[ReportManager] Assert that the element located by "By.xpath: (//article)[1]" text does not equal "Nope". @25-08-2025 23:20:37.0572 PM
+[ReportManager] Get  text "By.xpath: (//article)[1]" @25-08-2025 23:20:37.0652 PM
+[ReportManager] Expected "Nope", and actual "Github
+https://github.com › ShaftHQ
+SHAFT HQ - GitHub
+SHAFT_ENGINE Public SHAFT is a unified test automation engine for web, mobile, API, CLI, database, and desktop e2e testing. Powered by best-in-class frameworks, SHAFT provides a wizard-like syntax to drive your automation efficiently, maximize your ROI, and minimize your learning curve with no limitations! Stop reinventing the wheel! Upgrade now!
+Testng-Archetype
+SHAFT_Engine: TestNG Archetype This is a Maven Archetype for setting up a sample SHAFT_Engine + TestNG project. To Generate a project just follow these simple steps: Download the latest version of mvn Add it to your PATH variable Create a new directory for the project, and navigate to it.
+Issues · ShaftHQ/shafthq.github.io · GitHub
+SHAFT_Engine's official user guide, powered by Docusaurus 2.x - Issues · ShaftHQ/shafthq.github.io
+ShaftHQ Shaft_Dsl
+SHAFT DSL is a SHAFT Ecosystem project that extends basic SHAFT_Engine functionality and provides the user with easy-access domain specific elements. This facilitated authoring tests even more and provides a unique user experience that is tailored to testers everywhere.
+A Template for using SHAFT_Engine
+A Template Repository for using SHAFT_Engine. Contribute to ShaftHQ/using_SHAFT_Engine development by creating an account on GitHub." @25-08-2025 23:20:37.0653 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_23-20-38-644_25082025' @25-08-2025 23:20:38.0645 PM
+[ReportManager] Expected "Nope", and actual "Github
+https://github.com › ShaftHQ
+SHAFT HQ - GitHub
+SHAFT_ENGINE Public SHAFT is a unified test automation engine for web, mobile, API, CLI, database, and desktop e2e testing. Powered by best-in-class frameworks, SHAFT provides a wizard-like syntax to drive your automation efficiently, maximize your ROI, and minimize your learning curve with no limitations! Stop reinventing the wheel! Upgrade now!
+Testng-Archetype
+SHAFT_Engine: TestNG Archetype This is a Maven Archetype for setting up a sample SHAFT_Engine + TestNG project. To Generate a project just follow these simple steps: Download the latest version of mvn Add it to your PATH variable Create a new directory for the project, and navigate to it.
+Issues · ShaftHQ/shafthq.github.io · GitHub
+SHAFT_Engine's official user guide, powered by Docusaurus 2.x - Issues · ShaftHQ/shafthq.github.io
+ShaftHQ Shaft_Dsl
+SHAFT DSL is a SHAFT Ecosystem project that extends basic SHAFT_Engine functionality and provides the user with easy-access domain specific elements. This facilitated authoring tests even more and provides a unique user experience that is tailored to testers everywhere.
+A Template for using SHAFT_Engine
+A Template Repository for using SHAFT_Engine. Contribute to ShaftHQ/using_SHAFT_Engine development by creating an account on GitHub." @25-08-2025 23:20:38.0646 PM
+[ReportManager] Assertion passed @25-08-2025 23:20:38.0646 P

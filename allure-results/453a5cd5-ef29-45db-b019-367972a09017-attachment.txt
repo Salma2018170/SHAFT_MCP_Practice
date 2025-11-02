@@ -1,0 +1,7 @@
+[ReportManager] Post processing some properties to support platforms-specific restrictions. @25-08-2025 23:20:33.0910 PM
+[ReportManager] Setting "screenshotParams_screenshotType" property with "VIEWPORT". @25-08-2025 23:20:33.0911 PM
+[ReportManager] Setting "targetOperatingSystem" property with "mac". @25-08-2025 23:20:33.0912 PM
+[ReportManager] Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-port=52191, --window-position=0,0, --window-size=1920,1080], extensions: []}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, webSocketUrl: true} @25-08-2025 23:20:33.0914 PM
+[ReportManager] Attempting to run locally on: "Mac | Chrome". @25-08-2025 23:20:33.0915 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @25-08-2025 23:20:33.0915 PM
+[ReportManager] Successfully Opened: "Mac | Chrome". @25-08-2025 23:20:34.0893 P

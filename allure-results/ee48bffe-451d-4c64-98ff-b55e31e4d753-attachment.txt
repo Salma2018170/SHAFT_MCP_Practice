@@ -1,0 +1,14 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 3' test cases in the current suite                                        
+                       Test Method: 'testPackage.TestClass.navigateToDuckDuckGoAndAssertBrowserTitleIsDisplayedCorrectly'                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://duckduckgo.com/" @25-08-2025 23:20:11.0927 PM
+[ReportManager] Initial URL: "about:blank" @25-08-2025 23:20:11.0942 PM
+[ReportManager] Navigate to url "https://duckduckgo.com/". @25-08-2025 23:20:13.0040 PM
+[ReportManager] Assert that the browser title contains "DuckDuckGo". @25-08-2025 23:20:13.0082 PM
+[ReportManager] Expected "DuckDuckGo", and actual "DuckDuckGo - Protection. Privacy. Peace of mind." @25-08-2025 23:20:13.0126 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_23-20-30-302_25082025' @25-08-2025 23:20:30.0316 PM
+[ReportManager] Expected "DuckDuckGo", and actual "DuckDuckGo - Protection. Privacy. Peace of mind." @25-08-2025 23:20:30.0318 PM
+[ReportManager] Assertion passed @25-08-2025 23:20:30.0324 P

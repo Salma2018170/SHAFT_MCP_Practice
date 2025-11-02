@@ -1,0 +1,17 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 3' test cases in the current suite                                        
+                           Test Method: 'testPackage.TestClass.navigateToDuckDuckGoAndAssertLogoIsDisplayedCorrectly'                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://duckduckgo.com/" @25-08-2025 23:20:31.0650 PM
+[ReportManager] Initial URL: "about:blank" @25-08-2025 23:20:31.0663 PM
+[ReportManager] Navigate to url "https://duckduckgo.com/". @25-08-2025 23:20:33.0442 PM
+[ReportManager] Assert that the element located by "By.xpath: //div[contains(@class,'container_fullWidth__1H_L8')]//img" matches the reference image "EXACT_SHUTTERBUG". @25-08-2025 23:20:33.0500 PM
+[ReportManager] Element Locator: By.xpath: //div[contains(@class,'container_fullWidth__1H_L8')]//img was formatted to: testPackage.TestClass_By.xpath: //div[contains(@class,'container_fullWidth__1H_L8')]//img @25-08-2025 23:20:33.0509 PM
+[ReportManager] Reference image not found, attempting to capture new reference. @25-08-2025 23:20:33.0510 PM
+[ReportManager] Passing the test and saving a reference image @25-08-2025 23:20:33.0754 PM
+[ReportManager] Expected "true", and actual "true" @25-08-2025 23:20:33.0757 PM
+[ReportManager] Successfully created attachment 'Validation Test Data - Actual Screenshot' @25-08-2025 23:20:33.0771 PM
+[ReportManager] Expected "true", and actual "true" @25-08-2025 23:20:33.0771 PM
+[ReportManager] Assertion passed @25-08-2025 23:20:33.0772 P
