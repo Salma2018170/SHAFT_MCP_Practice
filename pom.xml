@@ -24,6 +24,11 @@
             <artifactId>SHAFT_ENGINE</artifactId>
             <version>${shaft_engine.version}</version>
         </dependency>
+        <dependency>
+            <groupId>io.github.shafthq</groupId>
+            <artifactId>SHAFT_MCP</artifactId>
+            <version>9.4.20251028</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
